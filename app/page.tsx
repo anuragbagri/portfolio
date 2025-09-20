@@ -1,9 +1,9 @@
 
-import About from "./About/About";
-import ContactComp from "./Contact/ContactComp";
-import Home from "./Home/Home";
-import ProjectComp from "./Projects/Projects";
-import SkillSets from "./Skills/SkillSet";
+import About from "./About/page";
+import ContactComp from "./Contact/page";
+import Home from "./Home/page";
+import ProjectComp from "./Projects/page";
+import SkillSets from "./Skills/page";
 
 export default function main(){
     return (
