@@ -6,8 +6,8 @@ const items = [
     bgColor: "#0D0716",
     textColor: "#fff",
     links: [
-      { label: "Company", ariaLabel: "About Company", href: "/company" },
-      { label: "Careers", ariaLabel: "About Careers", href: "/careers" }
+      { label: "", ariaLabel: "", href: "/company" },
+      { label: "", ariaLabel: "About Careers", href: "/careers" }
     ]
   },
   {
@@ -15,8 +15,8 @@ const items = [
     bgColor: "#170D27",
     textColor: "#fff",
     links: [
-      { label: "Featured", ariaLabel: "Featured Projects", href: "/projects/featured" },
-      { label: "Case Studies", ariaLabel: "Project Case Studies", href: "/projects/case-studies" }
+      { label: "", ariaLabel: "", href: "/projects/featured" },
+      { label: "", ariaLabel: "Project Case Studies", href: "/projects/case-studies" }
     ]
   },
   {
@@ -24,9 +24,9 @@ const items = [
     bgColor: "#271E37", 
     textColor: "#fff",
     links: [
-      { label: "Email", ariaLabel: "Email us", href: "mailto:info@example.com" },
-      { label: "Twitter", ariaLabel: "Twitter", href: "https://twitter.com" },
-      { label: "LinkedIn", ariaLabel: "LinkedIn", href: "https://linkedin.com" }
+      { label: "github", ariaLabel: "my github", href: "https://github.com/anuragbagri" },
+      { label: "x", ariaLabel: "Twitter", href: "https://x.com/noob_anurag" },
+      { label: "LinkedIn", ariaLabel: "LinkedIn", href: "https://www.linkedin.com/in/anurag-bagri-476a33255/" }
     ]
   }
 ];

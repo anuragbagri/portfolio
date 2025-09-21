@@ -7,7 +7,7 @@ const ContactComp = () => {
       id: 1,
       name: 'GitHub',
       icon: <Github className="w-8 h-8" />,
-      link: 'https://github.com/yourusername',
+      link: 'https://github.com/anuragbagri',
       color: 'from-gray-600 to-gray-800',
       hoverColor: 'hover:shadow-gray-500/25'
     },
@@ -15,7 +15,7 @@ const ContactComp = () => {
       id: 2,
       name: 'LinkedIn',
       icon: <Linkedin className="w-8 h-8" />,
-      link: 'https://linkedin.com/in/yourusername',
+      link: 'https://www.linkedin.com/in/anurag-bagri-476a33255/',
       color: 'from-blue-600 to-blue-800',
       hoverColor: 'hover:shadow-blue-500/25'
     },
@@ -23,13 +23,13 @@ const ContactComp = () => {
       id: 3,
       name: 'Twitter',
       icon: <Twitter className="w-8 h-8" />,
-      link: 'https://twitter.com/yourusername',
+      link: 'https://x.com/noob_anurag',
       color: 'from-sky-400 to-blue-500',
       hoverColor: 'hover:shadow-sky-500/25'
     }
   ];
 
-  const emailAddress = "your.email@example.com";
+  const emailAddress = "anurag123bagri@gmail.com";
 
   return (
     <div className="min-h-screen bg-black py-20 px-4 flex items-center justify-center">

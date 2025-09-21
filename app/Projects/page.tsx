@@ -5,23 +5,23 @@ function ProjectComp() {
   const projects = [
     {
       id: 1,
-      name: "E-Commerce Platform",
-      description: "A full-stack e-commerce platform built with React and Node.js, featuring user authentication, payment integration, and inventory management.",
-      link: "https://github.com/username/ecommerce-platform",
+      name: "sol-faucet",
+      description: "allows developers and users to request free testnet or devnet SOL tokens for experimenting with dApps, smart contracts, and transactions on the Solana blockchain.",
+      link: "https://github.com/anuragbagri/solana_airdrop_image",
       icon: <Globe className="w-6 h-6" />
     },
     {
       id: 2,
-      name: "Task Management App",
-      description: "A collaborative task management application with real-time updates, team collaboration features, and intuitive drag-and-drop interface.",
-      link: "https://github.com/username/task-manager",
+      name: "better-uptime",
+      description: "Better Uptime is an all-in-one monitoring platform that combines uptime monitoring, incident management, and on-call scheduling. It alerts you instantly if your website, server, or API goes down and provides detailed incident timelines, screenshots, and error logs to help resolve issues faster.",
+      link: "https://github.com/anuragbagri/betterup-time",
       icon: <Code className="w-6 h-6" />
     },
     {
       id: 3,
-      name: "Portfolio Website",
-      description: "A responsive portfolio website showcasing modern web design principles, smooth animations, and optimized performance across all devices.",
-      link: "https://github.com/username/portfolio",
+      name: "Jolt",
+      description: "Jolt is a lightweight and delightful Android app toolkit designed to add speed, smoothness, and a touch of charm to your mobile experience.",
+      link: "https://github.com/anuragbagri/Jolt",
       icon: <ExternalLink className="w-6 h-6" />
     }
   ];
